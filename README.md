@@ -19,10 +19,10 @@ with
 
 1. Support for common Wordpress tags ( the_title, the_content, the_excerpt )
 2. Support for thumbnails e.g. - 
-```
-{{thumbnail}} # returns <img> tag
-{{thumbnail.url}} # returns image url
-```
+	```
+	{{thumbnail}} # returns <img> tag
+	{{thumbnail.url}} # returns image url
+	```
 3. support for ACF Repeater and Relationship fields
 4. Support for Wordpress Loop and WP_Query
 5. Ability to use data from Wordpress OR JSON document with config flag (for prototyping frontent before Wordpress architecture is complete)
