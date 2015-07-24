@@ -1,0 +1,15 @@
+{
+  "name": "scoop",
+  "description": "A PHP preprocessor for simple wordpress sites",
+  "author": "Daniel Coulbourne <daniel@polymath.io>",
+  "dependencies": {
+    "del": "*",
+    "gulp-util": "*",
+    "through2": "*",
+    "buildify": ">= 0.4.0",
+    "readline": ">= 0.0.5"
+  },
+  "devDependencies": {
+    "gulp-ext-replace": "^0.2.0"
+  }
+}
