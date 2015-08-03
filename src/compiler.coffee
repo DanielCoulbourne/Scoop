@@ -10,11 +10,17 @@ scoop = (prefixText) ->
 
 	prefixText = new Buffer prefixText # allocate ahead of time
 
+	class TagDomain # ex. acf for acf.file.tagname
+		constructor: (@name, @types) ->
+
+
 	class Tag
 		constructor: (@slug) ->
 				console.log "Slug: " + @slug
-			generatePHP: =>
-				console.log '<?php the_field("' + @slug + '"); ?>'
+				if ( @slug.split('.').length > 1 )
+					@domain = @slug.split('.')[0]
+				else 
+					@domain = 'default'
 			replaceInString: (string) =>
 				newString = string.replace '{{' + @slug + '}}', '<?php the_field("' + @slug + '"); ?>'
 				return newString

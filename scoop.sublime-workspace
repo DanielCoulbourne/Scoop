@@ -1,0 +1,1402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"expor",
+				"exportBuf"
+			],
+			[
+				"ge",
+				"generateTag"
+			],
+			[
+				"gene",
+				"generatePHP"
+			],
+			[
+				"a",
+				"acField"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"style",
+				"style	Tag"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"q",
+				"questions"
+			],
+			[
+				"question",
+				"questionArray"
+			],
+			[
+				"query",
+				"query_string"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"end",
+				"endpoint_url"
+			],
+			[
+				"equ",
+				"equip-holder"
+			],
+			[
+				"equip",
+				"equip-list"
+			],
+			[
+				"loadMore",
+				"loadMoreFunc"
+			],
+			[
+				"prac",
+				"practitioners_array"
+			],
+			[
+				"reta",
+				"resturants"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"video",
+				"videoResult"
+			],
+			[
+				"get",
+				"getFlickr"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"apc_",
+				"apc_store"
+			],
+			[
+				"videoR",
+				"videosResponse"
+			],
+			[
+				"uplo",
+				"uploadsListId"
+			],
+			[
+				"videoRes",
+				"videoResults"
+			],
+			[
+				"chann",
+				"channelArgs"
+			],
+			[
+				"videoRe",
+				"videosResponse"
+			],
+			[
+				"vide",
+				"videoResult"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"channe",
+				"channelsResponse"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"image",
+				"image_uid"
+			],
+			[
+				"html",
+				"htmlBody"
+			],
+			[
+				"err",
+				"errmsg"
+			],
+			[
+				"login",
+				"login_name"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"clie",
+				"client_secret"
+			],
+			[
+				"sear",
+				"searchResult"
+			],
+			[
+				"siz",
+				"size_li"
+			],
+			[
+				"get_the",
+				"get_the_id"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"paywall",
+				"paywallValid"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"curren",
+				"currentFrame"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"backgroun",
+				"background-clip"
+			],
+			[
+				"MARGIN",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"readd",
+				"fs.readdir"
+			],
+			[
+				"token",
+				"tokenLine"
+			],
+			[
+				"folder",
+				"folderName"
+			],
+			[
+				"c",
+				"collection"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"rea",
+				"ready"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"bor",
+				"border-bottom-style"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"border-bott",
+				"border-bottom"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"mat",
+				"margin-right"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"nav",
+				"navHeight"
+			],
+			[
+				"cat",
+				"cat_id"
+			],
+			[
+				"this",
+				"this_obj"
+			],
+			[
+				"ny",
+				"nyopInput"
+			],
+			[
+				"class",
+				"classToAdd"
+			],
+			[
+				"se",
+				"secondary"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"user",
+				"user_registered"
+			],
+			[
+				"g",
+				"glue"
+			],
+			[
+				"brode",
+				"border-bottom"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"dark",
+				"darkblue"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mus",
+				"museo-slab"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "through = require 'through2'\ngutil = require 'gulp-util'\nPluginError = gutil.PluginError\nPLUGIN_NAME = 'gulp-scoop';\n\n# plugin level function (dealing with files)\nscoop = (prefixText) ->\n	if (!prefixText)\n		throw new PluginError PLUGIN_NAME, 'Missing prefix text!'\n\n	prefixText = new Buffer prefixText # allocate ahead of time\n\n	class TagDomain # ex. acf for acf.file.tagname\n		constructor: (@slug, @tags) ->\n			@slug\n\n\n	class Tag\n		constructor: (@slug, @domain, @args, @compile) ->\n				console.log \"Slug: \" + @slug\n				if ( @slug.split('.').length > 1 )\n					@domain = @slug.split('.')[0]\n				else \n					@domain = 'default'\n			replaceInString: (string) =>\n				newString = string.replace '{{' + @slug + '}}', '<?php the_field(\"' + @slug + '\"); ?>'\n				return newString\n		error: =>\n				console.log \"Error: Undefined Property\"\n\n	# creating a stream through which each file will pass\n	stream = through.obj (file, enc, cb) ->\n		if (file.isStream())\n			this.emit 'error', new PluginError(PLUGIN_NAME, 'Streams are not supported!')\n			return cb()\n\n		if (file.isBuffer())\n			file.clone\n			pre = file.contents.toString()\n			matches = pre.match(/[^{{\\]]+(?=}})/g)\n			generateTag = (tag, string, callback) ->\n				tagObj = new Tag tag #.trim()\n				newString = tagObj.replaceInString(string)\n				console.log newString\n				pre = newString\n				callback()\n			for tag in matches\n				generateTag tag, pre, ->\n					console.log \"pre: \" + pre\n					file.contents =  new Buffer pre\n\n		# make sure the file goes through the next gulp plugin\n		this.push file\n\n		# tell the stream engine that we are done with this file\n		cb()\n\n	# returning the file stream\n	return stream;\n\n# exporting the plugin main function\nmodule.exports = scoop;\n",
+			"file": "src/compiler.coffee",
+			"file_size": 1676,
+			"file_write_time": 130822582290000000,
+			"settings":
+			{
+				"buffer_size": 1710,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tags.coffee",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 815,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 778,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/coulbourne/src/gulp-replace/README.md",
+			"settings":
+			{
+				"buffer_size": 2120,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/coulbourne/src/gulp-replace/.travis.yml",
+			"settings":
+			{
+				"buffer_size": 66,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 97.0,
+		"last_filter": "jade",
+		"selected_items":
+		[
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ngin",
+				"Set Syntax: nginx"
+			],
+			[
+				"nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"htm fo",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"jque",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"html",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"htm f",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"for",
+				"Snippet: for"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"add pack",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ore",
+				"Project: Refresh Folders"
+			],
+			[
+				"han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"jquery",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"html fou",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"jav	",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"liqui",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"minig",
+				"Minify::Default File Settings"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"docke",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"liq",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"/Users/coulbourne/.ssh/known_hosts",
+			"open /Users/coulbourne/.ssh/known_hosts",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/coulbourne/src/gulp-replace",
+		"/Users/coulbourne/src/gulp-replace/test",
+		"/Users/coulbourne/src/gulp-replace/test/expected",
+		"/Users/coulbourne/src/scoop",
+		"/Users/coulbourne/src/scoop/modified-files"
+	],
+	"file_history":
+	[
+		"/Users/coulbourne/src/scoop/gulpfile.js",
+		"/Users/coulbourne/src/scoop/modified-files/test.scoop",
+		"/Users/coulbourne/src/scoop/test/test.scoop",
+		"/Users/coulbourne/src/scoop/src/compiler.js",
+		"/Users/coulbourne/src/scoop/README.md",
+		"/Users/coulbourne/src/scoop/package.json",
+		"/Users/coulbourne/src/scoop/src/compiler.coffee",
+		"/Users/coulbourne/src/charis-middleware/package.json",
+		"/Users/coulbourne/src/charis-middleware/oai.coffee",
+		"/Users/coulbourne/src/styleguide-master/styleguide/modules/8_templates/_templates.jade",
+		"/Users/coulbourne/src/styleguide-master/styleguide/_data.json",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/templates/header.php",
+		"/etc/apache2/httpd.conf",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/practitioner-results.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/lib/wrapper.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/templates/condition-heal.php",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc_elements.group/sidebar.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc_elements.group/also_likes.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/faq.group/erlc_faq.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/article.group/erlc_article.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/article.group/erlc_article.html",
+		"/Users/coulbourne/src/CoulBot/app.rb",
+		"/Users/coulbourne/src/CoulBot/index.erb",
+		"/Users/coulbourne/src/CoulBot/source 'http:::rubygems.org'",
+		"/Users/coulbourne/src/CoulBot/config.ru",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/views/condition-heal.twig",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/templates/prac-widget.php",
+		"/Users/coulbourne/src/charis/wp-content/themes/charis/page-archive.html",
+		"/Users/coulbourne/src/charis/wp-content/themes/charis/archive.php",
+		"/Users/coulbourne/src/charis/wp-content/themes/charis/functions.php",
+		"/Users/coulbourne/src/charis/wp-content/themes/charis/category.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/single-condition.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/templates/condition-sidebar.php",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc.group/ministry_grid.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/training.group/index.html",
+		"/Users/coulbourne/src/erlc/css/foundation.css",
+		"/Users/coulbourne/src/erlc/ministry_grid/signup.php",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc.group/equip.html",
+		"/Users/coulbourne/Desktop/test.html",
+		"/Users/coulbourne/src/image/wp-content/themes/bb-theme-child/archives.html",
+		"/Users/coulbourne/src/datapharm-login/index.html",
+		"/Users/coulbourne/src/charis/wp-content/themes/charis/page-home.php",
+		"/Users/coulbourne/src/image/wp-content/themes/bb-theme-child/js/fulco.js",
+		"/Users/coulbourne/src/image/fulco.php",
+		"/Users/coulbourne/src/image/wp-content/themes/bb-theme-child/js/paywall.js",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc_elements.group/equip_QA.html",
+		"/Users/coulbourne/src/asterisk/CNAME",
+		"/Users/coulbourne/src/asterisk-1/CNAME",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/quiz_api/api_classes.php",
+		"/Users/coulbourne/src/asterisk/_site/gulpfile.js",
+		"/Users/coulbourne/src/asterisk/_site/index.html",
+		"/Users/coulbourne/src/erlc/equip_QA.html",
+		"/Users/coulbourne/src/erlc/js/script-ck.js",
+		"/Users/coulbourne/src/erlc/video_api/api.php",
+		"/Users/coulbourne/src/erlc/video_api/api_single.php",
+		"/Users/coulbourne/src/erlc/.gitignore",
+		"/Users/coulbourne/src/erlc/.git/info/exclude",
+		"/Users/coulbourne/Library/Application Support/Sublime Text 3/Packages/User/dracula/Dracula.sublime-theme",
+		"/Users/coulbourne/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/coulbourne/.zshrc",
+		"/Users/coulbourne/src/starstarstar/css/style.css",
+		"/Users/coulbourne/src/***/gulpfile.js",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/new-events.group/speakers.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/events_elements.group/speakers.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/events_elements.group/sponsors.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/new-events.group/index.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/events_elements.group/main.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/events_elements.group/header.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/events_elements.group/logistics.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/events_elements.group/faqs.html",
+		"/Users/coulbourne/.rvm/log/1432697099_ruby-2.0.0-p353/gemset.pristine-ruby-2.0.0-p353.log",
+		"/Users/coulbourne/Desktop/sol.terminal",
+		"/Users/coulbourne/src/charis/wp-content/themes/charis/page-history.php",
+		"/Users/coulbourne/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/coulbourne/src/erlc/video_api/youtube_access_token.txt",
+		"/Users/coulbourne/src/erlc/video_api/network.php",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/events_elements.group/schedule.html",
+		"/Users/coulbourne/src/erlc/api.php",
+		"/Users/coulbourne/src/erlc/js/flickr.js",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/new-events.group/home.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/events_elements.group/videos.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/cache/erlc/page_cache/a34448b3622ee1c996f5382f3a52a705+4441b1cb0f63a9626235deb154f71405",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/new-events.group/videos.html",
+		"/Users/coulbourne/src/erlc/js/script-equip.js",
+		"/Users/coulbourne/src/erlc/video_ajax_new.php",
+		"/Users/coulbourne/src/erlc/yt/examples/service-account.php",
+		"/Users/coulbourne/src/erlc/video_api.php",
+		"/Users/coulbourne/src/erlc/youtube_access_token.txt",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc.group/video_new.html",
+		"/Users/coulbourne/src/erlc/video_test.php",
+		"/Users/coulbourne/src/image/wp-content/themes/bb-theme-child/includes/footer.php",
+		"/Users/coulbourne/src/image/wp-content/themes/bb-theme-child/footer.php",
+		"/Users/coulbourne/src/image/wp-content/themes/bb-theme-child/functions.php",
+		"/Users/coulbourne/src/image/wp-config.php",
+		"/Users/coulbourne/src/image/wp-content/themes/bb-theme-child/style.css",
+		"/Users/coulbourne/src/erlc/googleAuth.json",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc_elements.group/footer.html",
+		"/Users/coulbourne/src/erlc/video_auth.php",
+		"/Users/coulbourne/Desktop/badFiles.sh",
+		"/Users/coulbourne/Library/Caches/Cleanup At Startup/Transmit/C4B2B9D1-7887-4D81-AF40-FD3384A5946C/podcasts.html",
+		"/Users/coulbourne/src/erlc/css/master.css",
+		"/Users/coulbourne/src/erlc/css/mediaelementplayer.css",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/base.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/templates/head.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/assets/sass/_global.scss",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/assets/css/main.min.css.map",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/assets/sass/_bootstrap.scss",
+		"/Users/coulbourne/src/erlc/archived_pages/search_google.php",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc_elements.group/nav.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc_elements.group/head.html",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc.group/404.html",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/templates/sidebar.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/templates/condition-sidebar",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/views/sidebar.twig",
+		"/Users/coulbourne/src/healthius/wp-config.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/single-question.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/functions.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/post-types/answer.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/author.php",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/assets/sass/layouts/_header.scss",
+		"/Users/coulbourne/src/healthius/wp-content/themes/roots-sass/post-types/question.php",
+		"/Users/coulbourne/src/erlc/system/expressionengine/templates/erlc/erlc/erlc.group/podcasts_draft.html",
+		"/Users/coulbourne/Library/Caches/Cleanup At Startup/Transmit/3F7AFA16-C9E2-408B-844D-44D3220C6CBB/index.html",
+		"/Users/coulbourne/Downloads/imagejournal.wordpress.2015-03-24-posts.xml",
+		"/Users/coulbourne/Library/Caches/Cleanup At Startup/Transmit/3D810F03-8149-4F29-A19B-390AC7F19DCC/video_ajax_new.php",
+		"/Users/coulbourne/Desktop/___nav_node_meta_.xml",
+		"/Users/coulbourne/src/erlc/javascript/analytics.js",
+		"/Users/coulbourne/src/IJ/wp-content/themes/bb-theme-child/includes/nav-centered.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"live-healthius",
+			"<open folders>",
+			"<open folders>/*.scss",
+			"<open folders>/*.twig",
+			"<open folders>",
+			"<open folders>,-*.sql",
+			"<open folders>",
+			"<open files>",
+			"<open folders>/*.php",
+			"<open folders>",
+			"/Users/coulbourne/Dropbox (Polymath Innovations)/Clients/CHARIS/CHARIS | Website Development - 14015/mixture/wordpress",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slug",
+			"default",
+			".js",
+			"php",
+			"gulpPrefixer",
+			"gulp-prefixer",
+			"dev-healthius",
+			"//",
+			"var",
+			"test2",
+			"{",
+			"magenta",
+			"main",
+			"grey",
+			"black",
+			"magenta",
+			"url(",
+			"holder",
+			"click",
+			"get_the_field",
+			"roots_template_path",
+			"toInitialCase",
+			"(toInitialCase),",
+			",",
+			"nutrients",
+			"pdf",
+			"nutrient",
+			"$posts",
+			"further learning",
+			"CoulBot",
+			"uri",
+			"image",
+			"        ",
+			"state",
+			"<select>",
+			" name=\"practice\"",
+			" name=\"specialty\" ",
+			" name=\"state\" typ",
+			"n\"",
+			"ion\"",
+			"specialty",
+			"get_field",
+			"type_of_author",
+			"h6",
+			"ministry_grid",
+			"php",
+			"row",
+			"\n		    				  ",
+			"							 ",
+			"ministry_grid",
+			"b",
+			"512452345",
+			"width",
+			"h3",
+			"ministry_grid",
+			"specialty_pizzas",
+			"sandbox",
+			"> <",
+			"'",
+			"\n",
+			"\n			",
+			"			#",
+			"}\n			",
+			"sidebar_counter",
+			"Sidebar_Counter",
+			"sidebar_counter",
+			"Sidebar_Counter",
+			"sidebar_counter",
+			"Sidebar_Counter",
+			"ounter",
+			"counter",
+			"div",
+			"cc_email_address",
+			"8.3",
+			"control",
+			"span",
+			"Password",
+			"<span class=\"txtWhite\">",
+			"Open Sans",
+			"brandon",
+			"$open-sans",
+			"github",
+			"Moore",
+			"  ",
+			"    ",
+			"-    ",
+			"member",
+			"DATAPACKET",
+			"$",
+			"{content_category}",
+			"expires: 60",
+			"  		  	",
+			"loadMoreFunc",
+			"'../",
+			"footer",
+			"380px",
+			"content_category",
+			"{category}",
+			"content_category",
+			"equip",
+			"y",
+			"x",
+			"equip",
+			".equip-list",
+			"{category}",
+			"category",
+			"''+ ",
+			".equip-holder",
+			"equip-list",
+			"loadMore",
+			"term",
+			"dracula/",
+			"dracula",
+			"\n\n",
+			"<b",
+			"/b",
+			"<font face=\"Arial, Helvetica, sans-serif\" size=\"4\">",
+			"\n						",
+			"resturant",
+			"resturants",
+			"postArgs",
+			"queryArgs",
+			"state",
+			"speakers",
+			"#equip ",
+			"id=\"equip\"",
+			"height: 0",
+			"span"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"live-healthius",
+			"roots-sass",
+			"<section class=\"panel\" id=\"panel",
+			"scripts.js",
+			"<path fill=\"#ffffff\" ",
+			"CHARIS",
+			"/wp-content/themes/twentytwelve/public/",
+			"wp-content/themes/twentytwelve/public/",
+			"public/",
+			"wp-content/themes/twentytwelve/public/",
+			"$dark",
+			"100",
+			"$futura",
+			"$etica",
+			"$museo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/compiler.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 149.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/tags.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/coulbourne/src/gulp-replace/README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/Users/coulbourne/src/gulp-replace/.travis.yml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.686747206126,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "scoop.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lore",
+				"public/fonts/bootstrap/glyphicons-halflings-regular.svg"
+			],
+			[
+				"sty",
+				"ibm/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

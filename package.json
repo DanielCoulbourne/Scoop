@@ -1,15 +1,39 @@
 {
-  "name": "scoop",
-  "description": "A PHP preprocessor for simple wordpress sites",
-  "author": "Daniel Coulbourne <daniel@polymath.io>",
-  "dependencies": {
-    "del": "*",
-    "gulp-util": "*",
-    "through2": "*",
-    "buildify": ">= 0.4.0",
-    "readline": ">= 0.0.5"
-  },
-  "devDependencies": {
-    "gulp-ext-replace": "^0.2.0"
-  }
+	"name": "gulp-scoop",
+	"version": "0.0.1",
+	"description": "A Gulp Plugin for Wordpress Templating",
+	"author": "Daniel Coulbourne <daniel@polymath.io>",
+	"dependencies": {
+		"del": "*",
+		"gulp-util": "*",
+		"through2": "*",
+		"gulp-ext-replace": "^0.2.0"
+	},
+	"devDependencies": {
+		"event-stream": "^3.2.2",
+		"mocha": "^2.1.0",
+		"should": "^5.0.0",
+		"vinyl": "^0.4.6"
+	},
+	"scripts": {
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/DanielCoulbourne/Scoop.git"
+	},
+	"keywords": [
+		"gulpplugin",
+		"scoop",
+		"template",
+		"wordpress"
+	],
+	"author": "Daniel Coulbourne <daniel.coulbourne@gmail.com>",
+	"license": "GPL",
+	"bugs": {
+		"url": "https://github.com/DanielCoulbourne/Scoop/issues"
+	},
+	"engines": {
+		"node": ">=0.10"
+	}
 }
